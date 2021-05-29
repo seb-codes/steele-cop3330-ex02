@@ -11,4 +11,5 @@ public class CountChars {
         // output contains string, and uses built in function.
         System.out.println(strtocount + " has " + strtocount.length() +" characters.");
     }
+
 }
