@@ -9,6 +9,7 @@ public class CountChars {
         String strtocount = getName.nextLine();
 
         // output contains string, and uses built in function.
+        // adding a comment to just create a new commit
         System.out.println(strtocount + " has " + strtocount.length() +" characters.");
     }
 
